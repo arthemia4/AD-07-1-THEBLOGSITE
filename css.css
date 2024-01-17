@@ -33,3 +33,13 @@ label {
     margin-bottom: 10px;
     margin-left: 10%;
 }
+
+footer {
+    width: 80%;
+    margin: auto;
+}
+
+footer p {
+    display: inline-block;
+    margin: 5%;
+}
