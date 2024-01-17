@@ -17,6 +17,11 @@ h1 {
 h2 {
     color: white;
 }
-p { 
+
+p {
     color: white;
+}
+
+label {
+    color: lightgray;
 }
