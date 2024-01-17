@@ -17,6 +17,19 @@ h1 {
 h2 {
     color: white;
 }
-p { 
+
+p {
     color: white;
+}
+
+label {
+    color: lightgray;
+}
+
+.clanfoto {
+    display: inline;
+    float: right;
+    max-width: 45%;
+    margin-bottom: 10px;
+    margin-left: 10%;
 }
