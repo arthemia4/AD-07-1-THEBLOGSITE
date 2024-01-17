@@ -1,9 +1,22 @@
-body { 
+body {
     background-color: black;
 }
+
 li {
-    color:white;
+    color: white;
 }
+
 a {
-    color:white;
+    color: white;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+p { 
+    color: white;
 }
